@@ -44,9 +44,8 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_repositories: 100
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://www.nickmoline.com
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://www.nickmoline.com/feed.xml
