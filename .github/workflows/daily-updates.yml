@@ -49,7 +49,7 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://www.nickmoline.com/feed.xml
-          plugin_tweets: yes
+          plugin_tweets: no
           plugin_tweets_token: ${{ secrets.TWITTER_SECRET }}
           plugin_tweets_limit: 2
           plugin_tweets_user: NickMoline
