@@ -1,4 +1,4 @@
-name: Daily Updates
+dname: Daily Updates
 
 on:
   workflow_dispatch:
@@ -12,15 +12,10 @@ jobs:
   devcard:
     runs-on: ubuntu-latest
     steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@3.0.0
-        with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
-          commit_message: "chore: update ${filename}"
       - name: devcardpng
         uses: dailydotdev/action-devcard@3.0.0
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          user_id: ${{ secrets.DEVCARD_ID }}
           commit_filename: devcard.png
           commit_message: "chore: update ${filename}"
         
