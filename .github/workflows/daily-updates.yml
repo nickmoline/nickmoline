@@ -1,4 +1,4 @@
-dname: Daily Updates
+name: Daily Updates
 
 on:
   workflow_dispatch:
