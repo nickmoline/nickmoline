@@ -12,7 +12,7 @@ Head of Engineering at [Jobscan](https://www.jobscan.co),  I lead Jobscan's Engi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NickMoline&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 📘 My Tech Readings
-<a href="https://app.daily.dev/NickMoline"><img src="https://github.com/nickmoline/nickmoline/blob/main/devcard.svg" alt="Nick Moline's DevCard" title="Nick Moline's Devcard" border="0" width="350" /></a>
+<a href="https://app.daily.dev/NickMoline"><img src="https://github.com/nickmoline/nickmoline/blob/main/devcard.png" alt="Nick Moline's DevCard" title="Nick Moline's Devcard" border="0" width="356" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NickMoline&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
