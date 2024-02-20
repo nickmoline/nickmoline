@@ -105,7 +105,7 @@ jobs:
           # Options
           user: nickmoline
           template: markdown
-          markdown: stats.md
+          markdown: https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
           plugin_achievements: yes
